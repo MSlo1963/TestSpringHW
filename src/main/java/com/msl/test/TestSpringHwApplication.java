@@ -4,10 +4,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TestSpringHw1Application {
+public class TestSpringHwApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestSpringHw1Application.class, args);
+		SpringApplication.run(TestSpringHwApplication.class, args);
+		System.out.println("TestSpringHwApplication");
 	}
 
 }

@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.msl.test</groupId>
-	<artifactId>TestSpringHW-1</artifactId>
+	<artifactId>TestSpringHW</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TestSpringHW-1</name>
+	<name>TestSpringHW</name>
 	<description>TestSpringHW</description>
 	<properties>
 		<java.version>11</java.version>
